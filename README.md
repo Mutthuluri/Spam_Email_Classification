@@ -17,7 +17,7 @@ Reduce server load by filtering out unwanted emails.
 By automatically classifying emails, this project can help users save time and effort managing their inboxes, and organizations can improve security and efficiency.
 ## ⏳ Dataset
 * Download he Dataset for Custom Training
-* https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2N4MUNEZmdDLTFsTk1kNUloS0p6eHN4N2V5UXxBQ3Jtc0tuandBUXdqU0lTMjVqY2dGN3VkNWM1WmR4dFgxQmp5Vm52bUs1b25rZUtVX1Uzc1JsSFFsQkdoZG1KSnNDM3hVR1pnX0trejF3Q25VWFJxVl9mWXBuY252TEJmZGhTekZITk1ic2ttalFzb1ZkWGpWWQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw%2Fview%3Fusp%3Dsharing&v=rxkGItX5gGE
+* https://in.docworkspace.com/d/sIL6JkZqEAfP307IG?sa=cl
 
 ## :desktop_computer:	Installation
 
