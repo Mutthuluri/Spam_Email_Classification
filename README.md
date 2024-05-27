@@ -18,12 +18,14 @@ By automatically classifying emails, this project can help users save time and e
 ## ⏳ Dataset
 * Download he Dataset for Custom Training
 * https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2N4MUNEZmdDLTFsTk1kNUloS0p6eHN4N2V5UXxBQ3Jtc0tuandBUXdqU0lTMjVqY2dGN3VkNWM1WmR4dFgxQmp5Vm52bUs1b25rZUtVX1Uzc1JsSFFsQkdoZG1KSnNDM3hVR1pnX0trejF3Q25VWFJxVl9mWXBuY252TEJmZGhTekZITk1ic2ttalFzb1ZkWGpWWQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1uzbhec5TW_OjFr4UUZkoMm0rpyvYdhZw%2Fview%3Fusp%3Dsharing&v=rxkGItX5gGE
-## Installation
-Requirements
+
+## :desktop_computer:	Installation
+
+### :hammer_and_wrench: Requirements
 * Python 3.5+
 * Jupyter notebook/google collab
 
-## SETUP
+## :gear: Setup
 * install numpy
 
   pip install numpy as np
@@ -51,7 +53,7 @@ To run tests, run the following command
 ```
 
 
-## Accuracy
+## 🎯Accuracy
 * on Training data
   
   0.9670181736594121
