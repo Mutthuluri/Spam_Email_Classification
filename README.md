@@ -60,6 +60,12 @@ To run tests, run the following command
 * on testing data
   
   0.9659192825112107
+## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
+Mutthuluri varun kumar
+  
+  Medha Raina
+  
+  zeel Shah
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mutthuluri)
 
