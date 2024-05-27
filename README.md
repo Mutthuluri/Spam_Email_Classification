@@ -21,6 +21,7 @@ By automatically classifying emails, this project can help users save time and e
 ## Installation
 Requirements
 * Python 3.5+
+* Jupyter notebook/google collab
 
 ## SETUP
 * install numpy
